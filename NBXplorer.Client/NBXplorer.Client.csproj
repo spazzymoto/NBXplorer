@@ -16,8 +16,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="/opt/NBitcoin/NBitcoin/NBitcoin.csproj" />
-		<ProjectReference Include="/opt/NBitcoin/NBitcoin.Altcoins/NBitcoin.Altcoins.csproj" />
+		<ProjectReference Include="/tmp/NBitcoin/NBitcoin/NBitcoin.csproj" />
+		<ProjectReference Include="/tmp/NBitcoin/NBitcoin.Altcoins/NBitcoin.Altcoins.csproj" />
 		<!-- <PackageReference Include="NBitcoin" Version="4.1.1.83" /> -->
 		<!-- <PackageReference Include="NBitcoin.Altcoins" Version="1.0.1.38" /> -->
 		<PackageReference Include="NicolasDorier.StandardConfiguration" Version="1.0.0.18" />
