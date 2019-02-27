@@ -1,3 +1,3 @@
 #!/bin/bash
 
-dotnet build -c Release NBXplorer/NBXplorer.csproj
+dotnet build -c Debug NBXplorer/NBXplorer.csproj
